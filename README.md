@@ -4,21 +4,17 @@
 
 <div align="center">
 
-[![https://t.me/+2C83L6iB6XoyZWI9](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://t.me/+2C83L6iB6XoyZWI9)
-[![https://t.me/+2C83L6iB6XoyZWI9](https://img.shields.io/badge/Telegram-@Unknown_reason-blue.svg?style=flat-square)](https://t.me/+2C83L6iB6XoyZWI9)
+[![https://t.me/hexada_tech](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://t.me/+2C83L6iB6XoyZWI9)
+[![https://t.me/hexada_tech](https://img.shields.io/badge/Telegram-@Unknown_reason-blue.svg?style=flat-square)](https://t.me/hexada_tech)
 
 </div>
 
-This tool is based upon [Psi](https://github.com/Yadav210012/CamHackBot) .This is a telegram implementation with extra features than Psi.
-### Try it at [@Camera_hack_Robot](https://t.me/Camera_hack_Robot)
+
+### All our Bots in this channel[@hexada_tech_info](https://t.me/hexada_tech_info)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/Yadav210012/CamHackBot)](https://repl.it/github/Yadav210012/CamHackBot)
- 
-#### Video Tutorial 
 
-[![Video Tutorial](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.png)](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.mp4?raw=true)
- 
 
 ### How to build
 1. Create a telegram bot through [BotFather](https://t.me/BotFather).
