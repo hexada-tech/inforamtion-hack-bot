@@ -1,5 +1,6 @@
 const unzipper = require('unzipper');
 const fs = require('fs');
+const path = require('path');
 
 async function unzipScriptZip() {
     const zipFilePath = 'script.zip';
@@ -11,10 +12,11 @@ async function unzipScriptZip() {
                 const filePath = entry.path;
                 const type = entry.type; // 'Directory' or 'File'
 
-                if (type === 'File') {
-                    entry.pipe(fs.createWriteStream(filePath));
-                } else {
+                if (type === 'Directory') {
+                    fs.mkdirSync(filePath, { recursive: true });
                     entry.autodrain();
+                } else {
+                    entry.pipe(fs.createWriteStream(filePath));
                 }
             });
         console.log('File unzipped successfully!');
