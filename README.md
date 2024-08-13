@@ -18,7 +18,7 @@
 1. Copy it's API key
 1. download this repo as `zip` and extract it to your files 
 1. `cd TrackDown`
-1. open <img src="https://i.ibb.co/drSXSCM/bzyhgukomno6e79t4men.jpg" width="3000" height="300">
+1.  [open the vps (https://replit.com/)
 1. import this 2 files `script.zip` and `index.js`
 1. start the `index.js` by click to run 
 1. the files should be extracted now 
