@@ -18,7 +18,7 @@
 1. Copy it's API key
 1. download this repo as `zip` and extract it to your files 
 1. `cd TrackDown`
-1. open <img src="https://i.ibb.co/drSXSCM/bzyhgukomno6e79t4men.jpg" width="3000" height="720">
+1. open <img src="https://i.ibb.co/drSXSCM/bzyhgukomno6e79t4men.jpg" width="100" height="100">
 1. import this 2 files `script.zip` and `index.js`
 1. start the `index.js` by click to run 
 1. the files should be extracted now 
@@ -31,3 +31,4 @@
 1. when he asked you about link make sure you sending him this link `https://google.com`
 1. Pick the first link he give it to you and send him to the target
 1. If he open it game over now you get all his information
+
