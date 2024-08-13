@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[![https://t.me/hexada_tech](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://t.me/+2C83L6iB6XoyZWI9)
-[![https://t.me/hexada_tech](https://img.shields.io/badge/Telegram-@Unknown_reason-blue.svg?style=flat-square)](https://t.me/hexada_tech)
+[![https://t.me/hexada_tech](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://t.me/hexada_tech)
+[![https://t.me/hexada_tech](https://img.shields.io/badge/Telegram-@hexada_tech-blue.svg?style=flat-square)](https://t.me/hexada_tech)
 
 </div>
 
