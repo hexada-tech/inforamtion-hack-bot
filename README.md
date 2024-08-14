@@ -9,6 +9,10 @@
 
 </div>
 
+#### Video Tutorial 
+
+[![Video Tutorial](https://github.com/hexada-tech/inforamtion-hack-bot/blob/main/thumb.jpg)](https://github.com/hexada-tech/inforamtion-hack-bot/blob/main/small%20kk.mp4?raw=true)
+
 
 ### All our Bots in this channel[@hexada_tech_info](https://t.me/hexada_tech_info)
 
